@@ -1,4 +1,4 @@
-# Data analisis from retailer
+# Data analysis from retailer
 
 **eCommerce showcase**
 
