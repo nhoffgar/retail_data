@@ -2,7 +2,6 @@
 
 **eCommerce showcase**
 
-Project Overview
 This repository contains a dataset and analytical approach focused on understanding key aspects of retail and eCommerce performance. The objective is to uncover insights through data-driven analysis, optimizing customer experience, inventory management, and sales strategies.
 
 Key Objectives
